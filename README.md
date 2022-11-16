@@ -37,3 +37,5 @@ $ cd iddump-
 $ git pull
 
 $ python DUMP.py
+
+##INI TOOLS DUMP ID BUKAN CRACK
